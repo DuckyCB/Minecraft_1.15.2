@@ -107,6 +107,51 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "el_tonga_el_gucci"
+    },
+    {
+      "name": "CheeseRecipe",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cheese_recipe"
+    },
+    {
+      "name": "SliceOfCheeseRecipe",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "slice_of_cheese_recipe"
+    },
+    {
+      "name": "SliceOfHamRecipe",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "slice_of_ham_recipe"
+    },
+    {
+      "name": "SliceOfBreadRecipe",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "slice_of_bread_recipe"
+    },
+    {
+      "name": "SandwichRecipe",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sandwich_recipe"
     }
   ],
   "variable_elements": [],

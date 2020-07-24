@@ -1,0 +1,22 @@
+{
+  "group": "food",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "modum:slice_of_bread"
+    },
+    {
+      "item": "modum:slice_of_bread"
+    },
+    {
+      "item": "modum:sliceofcheese"
+    },
+    {
+      "item": "modum:sliceofham"
+    }
+  ],
+  "result": {
+    "item": "modum:sandwich",
+    "count": 1
+  }
+}

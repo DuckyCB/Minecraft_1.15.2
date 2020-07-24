@@ -1,0 +1,13 @@
+{
+  "group": "food",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:bread"
+    }
+  ],
+  "result": {
+    "item": "modum:slice_of_bread",
+    "count": 4
+  }
+}
