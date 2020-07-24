@@ -18,14 +18,31 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "um_items"
+    },
+    {
+      "name": "Tonga",
+      "type": "mob",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tonga"
     }
   ],
   "variable_elements": [],
-  "sound_elements": [],
+  "sound_elements": [
+    {
+      "name": "tonga_discover",
+      "file": "tonga_song",
+      "category": "master"
+    }
+  ],
   "language_map": {
     "en_us": {
       "itemGroup.tabum_items": "UM Items",
-      "block.modum.cardboard": "Cardboard"
+      "block.modum.cardboard": "Cardboard",
+      "entity.modum.tonga": "Tonga",
+      "item.modum.tonga": "Tonga Spawn Egg"
     }
   },
   "workspaceSettings": {

@@ -1,1 +1,11 @@
-{}
+{
+  "tonga_discover": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "modum:tonga_song",
+        "stream": false
+      }
+    ]
+  }
+}

@@ -51,6 +51,8 @@ public class ModumModElements {
 	public final List<Supplier<EntityType<?>>> entities = new ArrayList<>();
 	public static Map<ResourceLocation, net.minecraft.util.SoundEvent> sounds = new HashMap<>();
 	public ModumModElements() {
+		sounds.put(new ResourceLocation("modum", "tonga_discover"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("modum", "tonga_discover")));
 		try {
 			ModFileScanData modFileInfo = ModList.get().getModFileById("modum").getFile().getScanResult();
 			Set<ModFileScanData.AnnotationData> annotations = modFileInfo.getAnnotations();

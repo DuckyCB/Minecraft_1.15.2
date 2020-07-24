@@ -1,4 +1,6 @@
 {
   "itemGroup.tabum_items": "UM Items",
-  "block.modum.cardboard": "Cardboard"
+  "block.modum.cardboard": "Cardboard",
+  "entity.modum.tonga": "Tonga",
+  "item.modum.tonga": "Tonga Spawn Egg"
 }
