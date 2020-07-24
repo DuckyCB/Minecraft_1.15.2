@@ -178,6 +178,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "hot_sauce"
+    },
+    {
+      "name": "Agave",
+      "type": "plant",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "agave"
     }
   ],
   "variable_elements": [],
@@ -212,6 +221,7 @@
     "en_us": {
       "item.modum.el_tonga_el_gucci.desc": "El Tonga tun tun tun",
       "itemGroup.tabum_items": "UM Items",
+      "block.modum.agave": "Agave",
       "block.modum.cardboard": "Cardboard",
       "item.modum.sliceofham": "Slice of ham",
       "item.modum.cheese": "Cheese",
