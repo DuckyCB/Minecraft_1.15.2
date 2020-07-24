@@ -94,12 +94,12 @@ public class AgaveBlock extends ModumModElements.ModElement {
 					feature.withConfiguration(
 							(new BlockClusterFeatureConfig.Builder(new SimpleBlockStateProvider(block.getDefaultState()), new SimpleBlockPlacer()))
 									.tries(64).build())
-							.withPlacement(Placement.COUNT_HEIGHTMAP_32.configure(new FrequencyConfig(6))));
+							.withPlacement(Placement.COUNT_HEIGHTMAP_32.configure(new FrequencyConfig(15))));
 		}
 	}
 	public static class BlockCustomFlower extends FlowerBlock {
 		public BlockCustomFlower() {
-			super(Effects.SATURATION, 0, Block.Properties.create(Material.PLANTS).doesNotBlockMovement().sound(SoundType.GROUND)
+			super(Effects.SATURATION, 0, Block.Properties.create(Material.PLANTS).doesNotBlockMovement().sound(SoundType.SAND)
 					.hardnessAndResistance(0f, 0f).lightValue(0));
 			setRegistryName("agave");
 		}
@@ -124,7 +124,7 @@ public class AgaveBlock extends ModumModElements.ModElement {
 
 		@Override
 		public PlantType getPlantType(IBlockReader world, BlockPos pos) {
-			return PlantType.Plains;
+			return PlantType.Desert;
 		}
 	}
 }

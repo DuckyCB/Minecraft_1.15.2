@@ -1,7 +1,7 @@
 {
   "parent": "block/cube_all",
   "textures": {
-    "all": "modum:blocks/sin_titulo",
-    "particle": "modum:blocks/sin_titulo"
+    "all": "modum:blocks/caja_carton",
+    "particle": "modum:blocks/caja_carton"
   }
 }

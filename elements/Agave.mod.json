@@ -6,7 +6,7 @@
     "texture": "agave",
     "customModelName": "Cross model",
     "plantType": "normal",
-    "growapableSpawnType": "Plains",
+    "growapableSpawnType": "Desert",
     "growapableMaxHeight": 3,
     "name": "Agave",
     "specialInfo": [],
@@ -18,7 +18,7 @@
     "luminance": 0.0,
     "unbreakable": false,
     "soundOnStep": {
-      "value": "GROUND"
+      "value": "SAND"
     },
     "customDrop": {
       "value": ""
@@ -34,7 +34,7 @@
     "aiPathNodeType": "DEFAULT",
     "flammability": 1,
     "fireSpreadSpeed": 1,
-    "frequencyOnChunks": 6,
+    "frequencyOnChunks": 15,
     "spawnWorldTypes": [
       "Surface"
     ],

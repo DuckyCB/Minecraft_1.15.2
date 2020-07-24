@@ -187,6 +187,33 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "agave"
+    },
+    {
+      "name": "FermentedAgave",
+      "type": "item",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fermented_agave"
+    },
+    {
+      "name": "FermentedAgaveRecipe",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fermented_agave_recipe"
+    },
+    {
+      "name": "TequilaRecipe",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tequila_recipe"
     }
   ],
   "variable_elements": [],
@@ -231,6 +258,7 @@
       "item.modum.sliceofcheese": "Slice of cheese",
       "item.modum.tequila": "Tequila",
       "entity.modum.tonga": "Tonga",
+      "item.modum.fermented_agave": "Fermented Agave",
       "item.modum.hot_sauce": "Hot Sauce",
       "item.modum.sandwich": "Sandwich"
     }
