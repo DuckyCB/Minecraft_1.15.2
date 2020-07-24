@@ -1,0 +1,11 @@
+{
+  "_fv": 8,
+  "_type": "tab",
+  "definition": {
+    "name": "UM Items",
+    "icon": {
+      "value": "CUSTOM:Cardboard"
+    },
+    "showSearch": true
+  }
+}
