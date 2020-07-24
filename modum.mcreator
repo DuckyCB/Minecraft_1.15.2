@@ -214,6 +214,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "tequila_recipe"
+    },
+    {
+      "name": "ElTongaRing",
+      "type": "structure",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "el_tonga_ring"
     }
   ],
   "variable_elements": [],
