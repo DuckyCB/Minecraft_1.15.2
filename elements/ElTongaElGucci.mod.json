@@ -1,0 +1,17 @@
+{
+  "_fv": 8,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "eltonga_elgucci",
+    "name": "El Tonga El Gucci",
+    "description": "El Tonga tun tun tun",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:eltonga_elgucci"
+    },
+    "specialInfo": [],
+    "hasGlow": true
+  }
+}

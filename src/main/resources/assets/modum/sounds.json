@@ -7,5 +7,14 @@
         "stream": false
       }
     ]
+  },
+  "eltonga_elgucci": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "modum:eltonga_elgucci",
+        "stream": true
+      }
+    ]
   }
 }

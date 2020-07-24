@@ -1,12 +1,14 @@
 {
-  "item.modum.slice_of_bread": "Slice Of Bread",
-  "item.modum.sliceofcheese": "Slice of cheese",
+  "item.modum.el_tonga_el_gucci.desc": "El Tonga tun tun tun",
   "itemGroup.tabum_items": "UM Items",
-  "item.modum.tequila": "Tequila",
   "block.modum.cardboard": "Cardboard",
   "item.modum.sliceofham": "Slice of ham",
-  "entity.modum.tonga": "Tonga",
   "item.modum.cheese": "Cheese",
+  "item.modum.el_tonga_el_gucci": "El Tonga El Gucci",
   "item.modum.tonga": "Tonga Spawn Egg",
+  "item.modum.slice_of_bread": "Slice Of Bread",
+  "item.modum.sliceofcheese": "Slice of cheese",
+  "item.modum.tequila": "Tequila",
+  "entity.modum.tonga": "Tonga",
   "item.modum.sandwich": "Sandwich"
 }

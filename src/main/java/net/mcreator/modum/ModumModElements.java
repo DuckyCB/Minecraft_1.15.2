@@ -53,6 +53,8 @@ public class ModumModElements {
 	public ModumModElements() {
 		sounds.put(new ResourceLocation("modum", "tonga_discover"),
 				new net.minecraft.util.SoundEvent(new ResourceLocation("modum", "tonga_discover")));
+		sounds.put(new ResourceLocation("modum", "eltonga_elgucci"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("modum", "eltonga_elgucci")));
 		try {
 			ModFileScanData modFileInfo = ModList.get().getModFileById("modum").getFile().getScanResult();
 			Set<ModFileScanData.AnnotationData> annotations = modFileInfo.getAnnotations();
