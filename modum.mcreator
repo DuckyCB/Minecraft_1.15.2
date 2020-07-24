@@ -27,6 +27,77 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "tonga"
+    },
+    {
+      "name": "Cheese",
+      "type": "food",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cheese"
+    },
+    {
+      "name": "TequilaFoodEaten",
+      "type": "procedure",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tequila_food_eaten",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Tequila",
+      "type": "food",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tequila"
+    },
+    {
+      "name": "Sliceofcheese",
+      "type": "food",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sliceofcheese"
+    },
+    {
+      "name": "Sliceofham",
+      "type": "food",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sliceofham"
+    },
+    {
+      "name": "Sandwich",
+      "type": "food",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sandwich"
+    },
+    {
+      "name": "SliceOfBread",
+      "type": "food",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "slice_of_bread"
     }
   ],
   "variable_elements": [],
@@ -39,10 +110,16 @@
   ],
   "language_map": {
     "en_us": {
+      "item.modum.slice_of_bread": "Slice Of Bread",
+      "item.modum.sliceofcheese": "Slice of cheese",
       "itemGroup.tabum_items": "UM Items",
+      "item.modum.tequila": "Tequila",
       "block.modum.cardboard": "Cardboard",
+      "item.modum.sliceofham": "Slice of ham",
       "entity.modum.tonga": "Tonga",
-      "item.modum.tonga": "Tonga Spawn Egg"
+      "item.modum.cheese": "Cheese",
+      "item.modum.tonga": "Tonga Spawn Egg",
+      "item.modum.sandwich": "Sandwich"
     }
   },
   "workspaceSettings": {

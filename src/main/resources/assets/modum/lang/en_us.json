@@ -1,6 +1,12 @@
 {
+  "item.modum.slice_of_bread": "Slice Of Bread",
+  "item.modum.sliceofcheese": "Slice of cheese",
   "itemGroup.tabum_items": "UM Items",
+  "item.modum.tequila": "Tequila",
   "block.modum.cardboard": "Cardboard",
+  "item.modum.sliceofham": "Slice of ham",
   "entity.modum.tonga": "Tonga",
-  "item.modum.tonga": "Tonga Spawn Egg"
+  "item.modum.cheese": "Cheese",
+  "item.modum.tonga": "Tonga Spawn Egg",
+  "item.modum.sandwich": "Sandwich"
 }

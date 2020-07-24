@@ -1,0 +1,22 @@
+{
+  "_fv": 8,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "sandwich",
+    "customModelName": "Normal",
+    "name": "Sandwich",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "FOOD"
+    },
+    "stackSize": 64,
+    "nutritionalValue": 8,
+    "saturation": 0.3,
+    "eatingSpeed": 32,
+    "forDogs": true,
+    "isAlwaysEdible": true,
+    "animation": "eat",
+    "hasGlow": false
+  }
+}
