@@ -67,16 +67,16 @@
     "immuneToPotions": false,
     "immuneToPlayer": false,
     "mobDrop": {
-      "value": ""
+      "value": "CUSTOM:ElTongaElGucci"
     },
     "livingSound": {
-      "value": "CUSTOM:tonga_discover"
+      "value": "CUSTOM:eltonga_intro"
     },
     "hurtSound": {
-      "value": "CUSTOM:tonga_discover"
+      "value": "CUSTOM:eltonga_tuntuntun"
     },
     "deathSound": {
-      "value": "entity.generic.death"
+      "value": "CUSTOM:eltonga_suenocumplido"
     },
     "spawnParticles": false,
     "particleToSpawn": {

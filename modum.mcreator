@@ -152,6 +152,32 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "sandwich_recipe"
+    },
+    {
+      "name": "HotSauceFoodEaten",
+      "type": "procedure",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hot_sauce_food_eaten",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "HotSauce",
+      "type": "food",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hot_sauce"
     }
   ],
   "variable_elements": [],
@@ -165,6 +191,21 @@
       "name": "eltonga_elgucci",
       "file": "eltonga_elgucci",
       "category": "record"
+    },
+    {
+      "name": "eltonga_intro",
+      "file": "eltonga_intro",
+      "category": "hostile"
+    },
+    {
+      "name": "eltonga_tuntuntun",
+      "file": "eltonga_tuntuntun",
+      "category": "hostile"
+    },
+    {
+      "name": "eltonga_suenocumplido",
+      "file": "eltonga_suenocumplido",
+      "category": "master"
     }
   ],
   "language_map": {
@@ -180,6 +221,7 @@
       "item.modum.sliceofcheese": "Slice of cheese",
       "item.modum.tequila": "Tequila",
       "entity.modum.tonga": "Tonga",
+      "item.modum.hot_sauce": "Hot Sauce",
       "item.modum.sandwich": "Sandwich"
     }
   },

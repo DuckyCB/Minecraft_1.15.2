@@ -16,5 +16,32 @@
         "stream": true
       }
     ]
+  },
+  "eltonga_intro": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "modum:eltonga_intro",
+        "stream": false
+      }
+    ]
+  },
+  "eltonga_tuntuntun": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "modum:eltonga_tuntuntun",
+        "stream": false
+      }
+    ]
+  },
+  "eltonga_suenocumplido": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "modum:eltonga_suenocumplido",
+        "stream": false
+      }
+    ]
   }
 }

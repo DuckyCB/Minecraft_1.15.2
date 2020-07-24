@@ -55,6 +55,11 @@ public class ModumModElements {
 				new net.minecraft.util.SoundEvent(new ResourceLocation("modum", "tonga_discover")));
 		sounds.put(new ResourceLocation("modum", "eltonga_elgucci"),
 				new net.minecraft.util.SoundEvent(new ResourceLocation("modum", "eltonga_elgucci")));
+		sounds.put(new ResourceLocation("modum", "eltonga_intro"), new net.minecraft.util.SoundEvent(new ResourceLocation("modum", "eltonga_intro")));
+		sounds.put(new ResourceLocation("modum", "eltonga_tuntuntun"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("modum", "eltonga_tuntuntun")));
+		sounds.put(new ResourceLocation("modum", "eltonga_suenocumplido"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("modum", "eltonga_suenocumplido")));
 		try {
 			ModFileScanData modFileInfo = ModList.get().getModFileById("modum").getFile().getScanResult();
 			Set<ModFileScanData.AnnotationData> annotations = modFileInfo.getAnnotations();
