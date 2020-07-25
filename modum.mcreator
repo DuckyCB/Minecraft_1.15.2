@@ -232,6 +232,42 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "coin"
+    },
+    {
+      "name": "CacaoPowder",
+      "type": "item",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cacao_powder"
+    },
+    {
+      "name": "ChocolateBar",
+      "type": "food",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chocolate_bar"
+    },
+    {
+      "name": "ChocolateBarRecipe",
+      "type": "recipe",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chocolate_bar_recipe"
+    },
+    {
+      "name": "CacaoPowderRecipe",
+      "type": "recipe",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cacao_powder_recipe"
     }
   ],
   "variable_elements": [],
@@ -270,10 +306,12 @@
       "block.modum.agave": "Agave",
       "block.modum.cardboard": "Cardboard",
       "item.modum.sliceofham": "Slice of ham",
+      "item.modum.chocolate_bar": "Chocolate Bar",
       "item.modum.cheese": "Cheese",
       "item.modum.el_tonga_el_gucci": "El Tonga El Gucci",
       "item.modum.tonga": "Tonga Spawn Egg",
       "item.modum.slice_of_bread": "Slice Of Bread",
+      "item.modum.cacao_powder": "Cocoa Powder",
       "item.modum.sliceofcheese": "Slice of cheese",
       "item.modum.tequila": "Tequila",
       "entity.modum.tonga": "Tonga",

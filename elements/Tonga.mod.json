@@ -45,11 +45,11 @@
       "value": ""
     },
     "mobBehaviourType": "Mob",
-    "mobCreatureType": "UNDEFINED",
-    "attackStrength": 15,
+    "mobCreatureType": "ARTHROPOD",
+    "attackStrength": 10,
     "movementSpeed": 1.0,
     "armorBaseValue": 6.0,
-    "trackingRange": 64,
+    "trackingRange": 20,
     "health": 40,
     "xpAmount": 0,
     "waterMob": false,
@@ -59,13 +59,13 @@
     "canControlForward": false,
     "canControlStrafe": false,
     "immuneToFire": false,
-    "immuneToArrows": false,
+    "immuneToArrows": true,
     "immuneToFallDamage": false,
     "immuneToCactus": false,
     "immuneToDrowning": false,
     "immuneToLightning": false,
     "immuneToPotions": false,
-    "immuneToPlayer": false,
+    "immuneToPlayer": true,
     "mobDrop": {
       "value": "CUSTOM:ElTongaElGucci"
     },
@@ -97,16 +97,16 @@
     },
     "rangedItemType": "Default item",
     "spawnThisMob": true,
-    "doesDespawnWhenIdle": true,
+    "doesDespawnWhenIdle": false,
     "spawningProbability": 20,
     "mobSpawningType": "monster",
     "minNumberOfMobsPerGroup": 1,
-    "maxNumberOfMobsPerGroup": 4,
+    "maxNumberOfMobsPerGroup": 1,
     "restrictionBiomes": [
       {
         "value": "desert"
       }
     ],
-    "spawnInDungeons": true
+    "spawnInDungeons": false
   }
 }

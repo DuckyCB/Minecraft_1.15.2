@@ -1,0 +1,22 @@
+{
+  "group": "food",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "modum:cacao_powder"
+    },
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "minecraft:milk_bucket"
+    },
+    {
+      "item": "modum:cacao_powder"
+    }
+  ],
+  "result": {
+    "item": "modum:chocolate_bar",
+    "count": 4
+  }
+}

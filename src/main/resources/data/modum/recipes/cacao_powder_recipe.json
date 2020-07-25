@@ -1,0 +1,12 @@
+{
+  "group": "food",
+  "type": "minecraft:smelting",
+  "experience": 1,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "minecraft:cocoa_beans"
+  },
+  "result": {
+    "item": "modum:cacao_powder"
+  }
+}
