@@ -223,6 +223,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "el_tonga_ring"
+    },
+    {
+      "name": "Coin",
+      "type": "item",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "coin"
     }
   ],
   "variable_elements": [],
@@ -255,6 +264,7 @@
   ],
   "language_map": {
     "en_us": {
+      "item.modum.coin": "Coin",
       "item.modum.el_tonga_el_gucci.desc": "El Tonga tun tun tun",
       "itemGroup.tabum_items": "UM Items",
       "block.modum.agave": "Agave",
